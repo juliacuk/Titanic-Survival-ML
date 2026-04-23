@@ -1,12 +1,13 @@
 # Titanic Survival Prediction - Machine Learning Analysis
-
+Dane zostały użyte z kaggla (https://www.kaggle.com/datasets/yasserh/titanic-dataset/data?select=Titanic-Dataset.csv).
 
 ##  O projekcie
 Celem projektu było zbudowanie i porównanie modeli uczenia maszynowego, które przewidują szanse na przeżycie pasażerów Titanica. Analiza obejmuje pełen proces **Data Science** — od czyszczenia danych (EDA) po zaawansowaną wizualizację wyników za pomocą technik redukcji wymiarowości.
 
 ##  Wykorzystane Technologie & Algorytmy
 * **Stack:** Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)
-* **Modele:** * `SVM` (Support Vector Machine) – najlepsza wydajność
+* **Modele:**
+  * `SVM` (Support Vector Machine) – najlepsza wydajność
   * `KNN` (K-Nearest Neighbors)
   * `Decision Trees`
 
