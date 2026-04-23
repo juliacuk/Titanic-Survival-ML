@@ -1,8 +1,5 @@
-# 🚢 Titanic Survival Prediction - Machine Learning Analysis
+# Titanic Survival Prediction - Machine Learning Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ##  O projekcie
 Celem projektu było zbudowanie i porównanie modeli uczenia maszynowego, które przewidują szanse na przeżycie pasażerów Titanica. Analiza obejmuje pełen proces **Data Science** — od czyszczenia danych (EDA) po zaawansowaną wizualizację wyników za pomocą technik redukcji wymiarowości.
